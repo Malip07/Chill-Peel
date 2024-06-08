@@ -14,31 +14,33 @@ Phone Number:
 +60 19-439 5991
 
 Signature Drinks:
-Coconut Latte
-Iced Mocha Coconut
-Coconut Cold Brew
+Coconut Latte(RM7.00)
+Iced Mocha Coconut(RM8.00)
+Coconut Cold Brew(RM7.00)
 
 Other Drinks (Iced):
-Coconut Milkshake
-Caramel Coconut
+Coconut Milkshake(RM8.00)
+Caramel Coconut(RM8.00)
+Custom Drinks(RM12.00)
 
 Other Drinks (Hot):
-Latte Coconut
-hot chocolate coconut
+Latte Coconut(RM6.00)
+hot chocolate coconut(RM6.00)
+Custom Drinks(9.00)
 
 Baked Goods:
-Coconut Muffins
-Coconut Scone
-Coconut Macaroons
-Coconut Cake
-coconut Bread
+Coconut Muffins(RM5.00)
+Coconut Scone(RM2.50)
+Coconut Macaroons(RM2.50)
+Coconut Cake(RM13.50)
+coconut Bread(RM4.00)
 
 Cake flavours:
-Chocolate (Available)
-Vanilla (Available)
-Strawberry (Available)
-Blueberry (Unavailable)
-Cookies & Cream (Available)
+Chocolate (Available)RM20 each
+Vanilla (Available)RM20 each
+Strawberry (Available)RM20 each
+Blueberry (Unavailable)RM20 each
+Cookies & Cream (Available)RM20 each
 
 Sizes & Pricing:
 Round cake 6 inch diameter - 30RM (40RM with icing)
