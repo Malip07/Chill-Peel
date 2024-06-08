@@ -10,13 +10,28 @@ Everyday from 9am to 1am (Except Friday)
 Website Link:
 (https://chill-peel-kijjl6g.gamma.site/)
 
-Location:
-Street - 
-State/province/area - Selangor
-Zip code - 42600
-
 Phone Number:
 +60 19-439 5991
+
+Signature Drinks:
+Coconut Latte
+Iced Mocha Coconut
+Coconut Cold Brew
+
+Other Drinks (Iced):
+Coconut Milkshake
+Caramel Coconut
+
+Other Drinks (Hot):
+Latte Coconut
+hot chocolate coconut
+
+Baked Goods:
+Coconut Muffins
+Coconut Scone
+Coconut Macaroons
+Coconut Cake
+coconut Bread
 
 Cake flavours:
 Chocolate (Available)
@@ -69,5 +84,6 @@ Do accept any form of cash
 Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
 
 Other products:
+Chill Peel Tumbler (Rm15 per bottle)
 Coconut bag (RM2 per bag)
 A set of Wood spoon/fork/knife (RM3.00 per set)
